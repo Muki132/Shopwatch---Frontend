@@ -56,7 +56,7 @@ function Footer() {
               Company
             </h3>
             <ul>
-              <li>shopwatch.com</li>
+              <li>watchfactory.com</li>
               <li>Online e-Ecommerce</li>
               <li>24/7 available</li>
 
@@ -81,7 +81,7 @@ function Footer() {
               About Website
             </h3>
             <p>
-              shopwatch is a online e-Eommerce website through which user can
+              watchfactory is a online e-Eommerce website through which user can
               buy various types of watches as their requirements.
             </p>
 
@@ -127,7 +127,7 @@ function Footer() {
                 Company
               </h3>
               <ul>
-                <li>shopwatch.com</li>
+                <li>watchfactory.com</li>
                 <li>Online e-Ecommerce</li>
                 <li>24/7 available</li>
 
@@ -144,7 +144,7 @@ function Footer() {
             </h3>
 
             <p>
-              shopwatch is a online e-Eommerce website through which user can
+              watchfactory is a online e-Eommerce website through which user can
               buy various types of watches as their requirements.
             </p>
 
@@ -188,7 +188,7 @@ function Footer() {
               Company
             </h3>
             <ul>
-              <li>shopwatch.com</li>
+              <li>watchfactory.com</li>
               <li>Online e-Ecommerce</li>
               <li>24/7 available</li>
 
@@ -202,7 +202,7 @@ function Footer() {
             </h3>
 
             <p>
-              shopwatch is a online e-Eommerce website through which user can
+              watchfactory is a online e-Eommerce website through which user can
               buy various types of watches as their requirements.
             </p>
 

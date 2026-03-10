@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 function DocumentTitle({ pageTitle }) {
   useEffect(() => {
-    document.title = `SHOPWATCH - ${pageTitle}`;
+    document.title = `watchfactory - ${pageTitle}`;
   }, [pageTitle]);
 
   return (

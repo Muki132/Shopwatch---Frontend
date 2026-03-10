@@ -196,7 +196,7 @@ function OrdersDetails() {
 
           <View style={pdfStyles.mainHeader}>
             <View>
-              <Text style={[pdfStyles.bold]} >Order through shopwatch.com</Text>
+              <Text style={[pdfStyles.bold]} >Order through watchfactory.com</Text>
             </View>
             <View >
               <Text style={pdfStyles.totalBill}>Total Bill :  {totalPrice}.00 </Text>

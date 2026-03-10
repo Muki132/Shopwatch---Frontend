@@ -82,7 +82,7 @@ function Navbar() {
         {/* for default */}
         <nav className={styles.navbar}>
           <div className={styles.logo}>
-            <h1 onClick={() => navigate("/")}>ShopWatch..</h1>
+            <h1 onClick={() => navigate("/")}>watchfactory..</h1>
           </div>
           <div className={styles.search}>
             <SearchInput />
@@ -249,7 +249,7 @@ function Navbar() {
       <Tablet>
         <nav className={styles._tablet_navbar}>
           <div className={styles._tablet_logo}>
-            <h1 onClick={() => navigate("/")}>ShopWatch..</h1>
+            <h1 onClick={() => navigate("/")}>watchfactory..</h1>
           </div>
           <div className={styles._tablet_search}>
             <SearchInput />

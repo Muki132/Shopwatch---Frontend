@@ -35,7 +35,7 @@
 }
 
 .logo > h1::before {
-  content: "ShopWatch..";
+  content: "watchfactory..";
   width: 100%;
   color: blue;
   position: absolute;
@@ -275,7 +275,7 @@
 }
 
 ._tablet_logo > h1::before {
-  content: "ShopWatch..";
+  content: "watchfactory..";
   width: 100%;
   color: blue;
   position: absolute;
