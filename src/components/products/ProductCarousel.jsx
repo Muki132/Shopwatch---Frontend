@@ -35,7 +35,7 @@ const ProductCarousel = () => {
     (store) => store.getProductReducer
   );
 
-  const store = useSelector((store) => store);
+  // const store = useSelector((store) => store);
   // console.log(store, "store");
 
   // console.log(products, "products");

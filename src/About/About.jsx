@@ -35,14 +35,14 @@ const About = () => {
             <p>{member.contribution}</p>
 
             <div>
-              <a href={member.github} target='_blank'>
+              <a href={member.github} target='_blank' rel="noopener noreferrer">
                 <AiFillGithub  />
               </a>
-              <a href={member.linked} target='_blank' >
+              <a href={member.linked} target='_blank' rel="noopener noreferrer" >
                 <AiFillLinkedin  />
               </a>
 
-              <a href={member.portfolio} target='_blank' >
+              <a href={member.portfolio} target='_blank' rel="noopener noreferrer">
                 <CgProfile  />
               </a>
             </div>

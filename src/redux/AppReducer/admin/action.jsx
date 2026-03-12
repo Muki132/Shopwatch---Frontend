@@ -1,11 +1,11 @@
 import {
     DELETE_PRODUCT_REQUEST,
-    DELETE_PRODUCT_REQUEST_FAILUE,
-    DELETE_PRODUCT_REQUEST_SUCCESS
+    // DELETE_PRODUCT_REQUEST_FAILUE,
+    // DELETE_PRODUCT_REQUEST_SUCCESS
 } from "../../../Constant/actionTypes";
-import getLoggedUserData from "../../../utils/LoggedUserData";
-const BASE_URL = process.env.REACT_APP_BASE_URL;
-const LoggedUser = getLoggedUserData()
+// import getLoggedUserData from "../../../utils/LoggedUserData";
+// const BASE_URL = process.env.REACT_APP_BASE_URL;
+// const LoggedUser = getLoggedUserData()
 
 const deleteProduct = (payload) => async (dispatch) => {
     console.log(payload);
